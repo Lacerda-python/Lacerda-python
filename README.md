@@ -98,9 +98,10 @@ Aplicação web para gestão financeira desenvolvida do zero. Um dos meus princi
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Lacerda-python&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerda-python&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lacerda-python&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerda-python&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%" />
+</p>
 
 ---
 
